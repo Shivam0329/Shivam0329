@@ -38,10 +38,16 @@ Focused on Data Science, AI-based applications
 
 ---
 
-
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivam0329&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Shivam0329&layout=compact&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shivam0329&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Shivam0329&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Shivam0329&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Shivam0329&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
