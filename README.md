@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivam Kumar Singh</h1>
+<h1 align="center">I'm Shivam Kumar Singh</h1>
 <h3 align="center">
 Focused on Data Science, AI-based applications
 </h3>
